@@ -28,5 +28,5 @@ if __name__ == '__main__':
     # Example usage
     kernel.add_phonology_rule("/b/ -> /p/")
     kernel.add_grammar_rule("Noun + Verb --> Sentence")
-    kernel.add_word("tala", "to speak")
+    kernel.add_word
     kernel.process()
